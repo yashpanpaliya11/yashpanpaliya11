@@ -1,76 +1,67 @@
 <h1 align="center">Hi 👋, I'm Yash Panpaliya</h1>
-<h3 align="center">🚀 1st Year Undergrad @ Newton School of Technology</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Robotics+Enthusiast;Learning+AI+%26+Systems;Building+Cool+Stuff+🚀">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Robotics+Builder;Quadruped+Project+🚀;Always+Learning..." />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 First-year undergrad passionate about tech
-- 🤖 Currently working on a **Quadruped Robot**
-- 🌱 Learning **Web Dev, JS, and Systems**
-- ⚡ Love building + experimenting
+- 🎓 1st Year @ Newton School of Technology  
+- 🤖 Building a **Quadruped Robot**  
+- 💻 Exploring Full Stack + Systems  
+- ⚡ Love animations & cool UI  
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 <p align="center">
-  <a href="https://bsky.app/profile/yashpanpaliya">
-    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
+  <a href="https://linkedin.com/in/yashpanpaliya">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://instagram.com/bytzz,yashh">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/yashpanpaliya">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## ⚡ Tech Stack (Animated Icons)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,go,js,bash,git,github,blender&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,go,bash,git,github,blender&perline=5" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Stable Version)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashpanpaliya11&show_icons=true&theme=tokyonight" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yashpanpaliya11&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashpanpaliya11&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=yashpanpaliya11&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity Graph (Fixed)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashpanpaliya11&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashpanpaliya11&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Animation)
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/yashpanpaliya11/yashpanpaliya11/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🎯 Current Focus
+- 🚀 Robotics (Quadruped)
+- 🌐 Full Stack Dev
+- 🧠 DSA
+
+---
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashpanpaliya11&theme=tokyonight&no-frame=true&margin-w=10"/>
+  <img src="https://komarev.com/ghpvc/?username=yashpanpaliya11&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
-
----
-
-## 🚀 Current Focus
-- 🔥 Building Robotics Projects
-- 🌐 Full Stack Development
-- 🧠 Data Structures & Problem Solving
-
----
-
-<p align="center">✨ Keep Building. Keep Learning. ✨</p>
