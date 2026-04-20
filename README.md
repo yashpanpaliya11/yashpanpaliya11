@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./header.svg" width="800" />
+  <img src="https://raw.githubusercontent.com/yashpanpaliya11/yashpanpaliya11/main/header.svg" width="800" onerror="this.src='https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,5,10&height=200&section=header&text=Yash%20Panpaliya&fontSize=70&animation=fadeIn&fontAlignY=38'" />
 </p>
 
 <p align="center">
   <a href="https://github.com/yashpanpaliya11">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=000000&background=FFEE00&center=true&vCenter=true&width=600&height=50&lines=>>>+DEVELOPING+THE+FUTURE+;>>>+DESIGNING+IN+3D+;>>>+AUTOMATING+REALITY+;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=FFEE00&background=000000&center=true&vCenter=true&width=600&height=50&lines=>>>+DEVELOPING+THE+FUTURE+;>>>+DESIGNING+IN+3D+;>>>+AUTOMATING+REALITY+;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 ### 🛠️ [LOAD_MODULES] // TECH_STACK
 
-<p align="left">
+<p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=python,go,html,css,bash,blender,notion,github,windows,matlab&perline=5&theme=dark" />
 </a>
@@ -43,19 +43,13 @@
 
 ### 📊 [FETCH_METRICS] // DATABASE 
 
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=yashpanpaliya11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FFEE00&text_color=FFFFFF&icon_color=FF00F7" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpanpaliya11&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00FF00&text_color=FFFFFF" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashpanpaliya11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFEE00&text_color=FFFFFF&icon_color=FF00F7" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpanpaliya11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" width="48%" />
+</p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yashpanpaliya11&theme=tokyonight&hide_border=true&background=00000000&ring=FFEE00&fire=FF00F7" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=yashpanpaliya11&theme=tokyonight&hide_border=true&background=0D1117&ring=FFEE00&fire=FF00F7" width="100%" />
 </p>
 
 ---
@@ -71,7 +65,7 @@
 ### 🐍 [AUTO_GEN] // CONTRIBUTION_SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yashpanpaliya11/yashpanpaliya11/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/yashpanpaliya11/yashpanpaliya11/output/github-contribution-grid-snake.svg" alt="Snake" onerror="this.src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3QzamhpZ3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/LpLd2NGvpaiy7vOclZ/giphy.gif'"/>
 </p>
 
 ---
